@@ -1,0 +1,2 @@
+# MySQLvoice-pip-library
+This Project is limited to MySQL Database operations but it can be used in all regions of the world for handling databases as  it is very easy to develop for regional languages. We are mostly working in common English language but it has the capability to be coded for any languages spoken in the world like Kannada, Korean, Japanese, Hindi, Gujrati etc. It will help the Non-Technical  person to handle databases with ease.
